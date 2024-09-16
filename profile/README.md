@@ -4,13 +4,13 @@
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬ <br/>
 
-🔥 Our mission: Implement ideas and solve unique problems with no solution on the market, by developing simple and original customized software using modern and cost-effective approaches.
+🔥 Our mission: Implement ideas and solve specific problems with lean solutions based on unique values, by developing simple and original software using modern and cost-effective approaches.
 
-🛠️ Covered areas (E2E development):  project management, product research, business analysis, UX/UI design, full-stack programming, quality assurance, and technical support
+🛠️ E2E development covered:  project management, product research, business analysis, UX/UI design, full-stack programming, quality assurance, and technical support
 
-⚛ Tech stack: JavaScript, TypeScript, ReactJS, React Native, NodeJS, PostgreSQL, MongoDB, Google Cloud, Figma
+⚙️ Tech stack: JavaScript, TypeScript, ReactJS, React Native, NodeJS, PostgreSQL, MongoDB, Google Cloud, Strapi, Shadcn-ui, MikroORM, Playwright, Jest, Figma
 
-✨ AI (artificial intelligence): OpenAI, ChatGPT, LangChain, Supabase, Helicone
+🤖 AI (artificial intelligence): OpenAI, ChatGPT, Claude, LangChain, Supabase, Helicone
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬ <br/>
 
